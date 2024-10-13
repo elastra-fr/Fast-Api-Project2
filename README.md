@@ -1,7 +1,7 @@
 
 # Another Simple Books App
 
-A very very very simple books app to test fast API using base model and validation.
+A very very very simple books app to test fast API using base model, validation, path validation, query validation and proper status codes.
 
 work in progress
 
